@@ -16,7 +16,7 @@ Control Pac-Man as he navigates a maze, avoiding ghosts and eating food to incre
 
 ## 🔧 Installation  
 1. Clone the repository:  
-   git clone https://github.com/charifa2024/pacman-game.git
+   git clone https://github.com/charifa2024/PacMan.git
 2. Open the project in a Java-compatible IDE.  
 3. Run the game.  
 
